@@ -12,7 +12,6 @@
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
     "ajv": "^8.17.1",
-    "client": "file:",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-material-ui-carousel": "^3.4.2",
