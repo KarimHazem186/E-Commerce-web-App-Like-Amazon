@@ -2,5 +2,6 @@
   "version": 3,
   "installCommand": "npm install --legacy-peer-deps",
   "buildCommand": "npm run build",
-  "outputDirectory": "build" // or whatever your build output folder is
+  "outputDirectory": "build" 
 }
+
